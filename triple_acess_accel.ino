@@ -9,6 +9,7 @@
 // # Description:
 // # This sample shows how to measure the angle value using two axis value
 
+//Notes by Dan Davis:
 //used the Arduino Uno or Arduino Mega and breadboard with the triple axis accelerometer. 
 // use IDE serial monitor to review data.
 // the accelerommeter must be shaken vigorously to see the serial angle value data  change
